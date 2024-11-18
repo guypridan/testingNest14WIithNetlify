@@ -1,0 +1,1 @@
+export const fun = () => {console.log('helllllloooo!');}
