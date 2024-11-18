@@ -13,5 +13,8 @@
   "workspaces": [
     "packages/functions",
     "apps/next14test"
-  ]
+  ],
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.8.1"
+  }
 }
